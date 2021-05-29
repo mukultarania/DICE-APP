@@ -1,6 +1,8 @@
-# dice_app
+# DICE APP
 
-DICE APP
+Four Dice
+
+*****ROOL*****
 
 ## Getting Started
 
